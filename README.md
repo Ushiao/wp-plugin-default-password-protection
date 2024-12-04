@@ -1,7 +1,5 @@
 # WordPress Plugin Default Password Protection
 
-# Default Password Protection
-
 **Plugin Type:** WordPress Plugin
 
 ## Description
